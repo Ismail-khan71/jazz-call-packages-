@@ -1,0 +1,164 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jazz Call Packages 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        nav {
+            background-color: #0056b3;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 30px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        section h2 {
+            font-size: 1.8rem;
+            color: #0056b3;
+        }
+        section p {
+            line-height: 1.6;
+        }
+        .package-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .package-table th,
+        .package-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .package-table th {
+            background-color: #007bff;
+            color: white;
+        }
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        footer a {
+            color: #ffc107;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jazz Call Packages 2025</h1>
+    </header>
+    <nav>
+        <a href="#daily">Daily Packages</a>
+        <a href="#weekly">Weekly Packages</a>
+        <a href="#monthly">Monthly Packages</a>
+        <a href="#other">Other Offers</a>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Discover all the latest <a href="#jazz-call-packages">Jazz Call Packages</a> including daily, weekly, and monthly offers updated for 2025. These packages cater to every need with competitive pricing and unmatched network quality.</p>
+        </section>
+        <section id="daily">
+            <h2>Jazz Daily Call Packages</h2>
+            <p>Jazz offers a variety of daily call packages tailored to meet your short-term communication needs. Below are the most popular options:</p>
+            <table class="package-table">
+                <tr>
+                    <th>Package Name</th>
+                    <th>Price</th>
+                    <th>On-Net Minutes</th>
+                    <th>SMS</th>
+                    <th>Internet MBs</th>
+                    <th>Activation Code</th>
+                </tr>
+                <tr>
+                    <td>Daily Karachi Offer</td>
+                    <td>PKR 30</td>
+                    <td>Unlimited</td>
+                    <td>1500</td>
+                    <td>250</td>
+                    <td>*400#</td>
+                </tr>
+                <tr>
+                    <td>Daily Punjab Offer</td>
+                    <td>PKR 12</td>
+                    <td>Unlimited</td>
+                    <td>1000</td>
+                    <td>250</td>
+                    <td>*6000#</td>
+                </tr>
+            </table>
+            <p>These packages are perfect for individuals who need a cost-effective solution for daily communication.</p>
+        </section>
+        <section id="weekly">
+            <h2>Jazz Weekly Call Packages</h2>
+            <p>Jazz weekly call packages provide excellent value for users who require a balance of minutes, SMS, and data. Here are the details:</p>
+            <ul>
+                <li><strong>Weekly GupShup:</strong> PKR 200 - Unlimited on-net minutes, 1000 SMS, and 500 MB. Activation Code: *407#</li>
+                <li><strong>Weekly Plus Offer:</strong> PKR 350 - 1500 on-net minutes, 100 SMS, and 1000 MB. Activation Code: *505#</li>
+            </ul>
+            <p>With these packages, you can stay connected with your loved ones for an entire week without worrying about reactivating frequently.</p>
+        </section>
+        <section id="monthly">
+            <h2>Jazz Monthly Call Packages</h2>
+            <p>Jazz monthly packages are designed for users who prefer uninterrupted communication for an entire month. Here are the top picks:</p>
+            <ul>
+                <li><strong>Monthly GupShup:</strong> PKR 600 - Unlimited on-net minutes, 3000 SMS, and 2000 MB. Activation Code: *601#</li>
+                <li><strong>Super Mahana Voice:</strong> PKR 1200 - 5000 on-net minutes, 500 SMS, and 5000 MB. Activation Code: *1200#</li>
+            </ul>
+            <p>These packages are ideal for professionals and families who rely heavily on Jazz for their communication needs.</p>
+        </section>
+        <section id="other">
+            <h2>Other Jazz Offers</h2>
+            <p>In addition to daily, weekly, and monthly packages, Jazz offers special location-based and time-specific packages. Examples include:</p>
+            <ul>
+                <li><strong>Sindh Daily Call Package:</strong> PKR 20 - Unlimited on-net minutes. Activation Code: *1010#</li>
+                <li><strong>Super Ghanta Offer:</strong> PKR 5 - 60 minutes for 1 hour. Activation Code: *60#</li>
+            </ul>
+            <p>These offers cater to specific user needs, ensuring flexibility and affordability for everyone.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Jazz Packages. All Rights Reserved. Visit <a href="#jazz-call-packages">Jazz Call Packages</a> for more details.</p>
+    </footer>
+</body>
+</html>
